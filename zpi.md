@@ -3,13 +3,14 @@
 ### Kontakt
 Zapraszam do kontaktu na #slack'u
 ZPI-Winter-20-21
+
 https://join.slack.com/t/newworkspace-eph9127/shared_invite/zt-hzrsz93o-BvBHEHjXvmA_EOayaZ1YWA
 
 Email: pkisiele@pk.edu.pl
 
 ### ZPI Zima studia zaoczne 2020/2021
 
-Co to jest projekt?
+[Co to jest projekt?](https://pkisiel77.github.io/files/l01.pdf)
 
 Proces rozpoczecia projektu
 
