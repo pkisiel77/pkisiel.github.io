@@ -1,5 +1,5 @@
-```
 ### Kontakt
+```
 Zapraszam do kontaktu na #slack'u
 ZPI-Winter-20-21
 
