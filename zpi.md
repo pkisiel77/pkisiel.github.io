@@ -1,4 +1,44 @@
-## Welcome to GitHub Pages
+## ZPI 2020/2021
+
+### Kontakt
+Zapraszam do kontaktu na #slack'u
+ZPI-Winter-20-21
+https://join.slack.com/t/newworkspace-eph9127/shared_invite/zt-hzrsz93o-BvBHEHjXvmA_EOayaZ1YWA
+
+Email: pkisiele@pk.edu.pl
+
+### ZPI Zima studia zaoczne 2020/2021
+
+Co to jest projekt?
+
+Proces rozpoczecia projektu
+
+Proces planowania projektu
+
+Planowanie zakresu projektu
+
+Planowanie czasu w projekcie
+
+Planowanie jakosci w projekcie
+
+Planowanie zespolu projektowego
+
+Planowanie komunikacji w projekcie
+
+Planowanie ryzyka w projekcie
+
+Planowanie zarzadzania zaangazowaniem interesariuszy projektu
+
+Proces zamkniecia projektu
+
+SCRUM / AGILE
+
+Zarzdzanie projektami AI & ML
+
+Zarzdzanie projektami RPA
+
+Zarzdzanie projektami Process Mining
+
 
 You can use the [editor on GitHub](https://github.com/pkisiel77/pkisiel.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
